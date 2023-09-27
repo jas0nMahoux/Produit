@@ -54,8 +54,7 @@ public class Main {
 
         Produit testProduit = new Produit("Lenovo", 1400);
         testProduit.setPrix(1500);
-        testProduit.setPrix(1450);
-        System.out.println("Le prix du produit en septembre 2023 est de : " + testProduit.getPriceAt(Year.of(2023).atMonth(9)));
+        System.out.println("Les prix du produit en septembre 2023 sont de : " + testProduit.getPricesAt(Year.of(2023).atMonth(9)));
 
     }
 }

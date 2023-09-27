@@ -37,7 +37,7 @@ public class Produit {
         this.historiquePrice.add(new HistoriquePrice(prix, YearMonth.now()));
     }
 
-    public List<Integer> getPriceAt(YearMonth yearMonth) {
+    public List<Integer> getPricesAt(YearMonth yearMonth) {
         return this.historiquePrice.stream().filter(
                 h -> h.getDate().equals(yearMonth)
             ).map(

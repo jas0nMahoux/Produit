@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0d3a2b8-139d-4015-a8a4-bacbf1b8795b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/jmahoux/app/HistoriquePrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/jmahoux/app/LoginInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/jmahoux/app/LoginSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/jmahoux/app/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/jmahoux/app/Produit.java" afterDir="false" />
+    <list default="true" id="c0d3a2b8-139d-4015-a8a4-bacbf1b8795b" name="Changes" comment="Produit + HistoriquePrice">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/jmahoux/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/jmahoux/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/jmahoux/app/Produit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/jmahoux/app/Produit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,11 +78,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695798281214</updated>
-      <workItem from="1695798282375" duration="4655000" />
+      <workItem from="1695798282375" duration="4983000" />
     </task>
+    <task id="LOCAL-00001" summary="Produit + HistoriquePrice">
+      <option name="closed" value="true" />
+      <created>1695803048052</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695803048052</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Produit + HistoriquePrice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Produit + HistoriquePrice" />
   </component>
 </project>
